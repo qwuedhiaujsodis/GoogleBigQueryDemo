@@ -1,0 +1,53 @@
+
+
+.navbar-default {
+  background-color: rgb(70, 131, 131); /* nBlueLight */
+}
+
+.navbar-default .navbar-link {
+  color: white;
+}
+
+.navbar-default .navbar-link:hover {
+  color: white;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: white;
+}
+.navbar-default .navbar-text {
+  color: white;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: white;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: white;
+  background-color: rgb(145, 207, 145);
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgb(111, 159, 159);
+}
+.navbar-default .navbar-toggle {
+  border-color: rgb(111, 159, 159);
+}
+
+.paddingInTop {
+  padding-top: 70px;
+}
+
+.buttonTop
+{
+  padding-top: 10px;
+}
