@@ -1,4 +1,4 @@
-# GoogleBigQueryDemo
+# Google Big Query Demo
 a simple application using Google Cloud Big Query, Webapp2 and Google Python Client Lib
 
 ## What You Need To Run
