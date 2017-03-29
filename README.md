@@ -12,7 +12,7 @@ sudo pip install --upgrade google-api-python-client
 ```
 dev_appserver.py app.yaml
 ```
-**(OPTIONAL)** In the run time, `ImportError` for `googleapiclient` happens sometimes. Just go to the project Folder and Run this command:
+**(OPTIONAL)** You may see `ImportError` for `googleapiclient`. Just go to the *project folder* and Run this command:
 ```
 sudo pip install -t lib google-api-python-client
 ```
